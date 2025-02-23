@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @adrian1244
-- 👀 I’m interested in Aerospace Engineering 
+- 👀 I’m interested in Aerospace Engineering
+- Freshman Mechanical Engineering Student at Stony Brook
 - 🌱 I’m currently learning C++
 - 📫 You can reach me at: adrianmrod22@gmail.com
-- Freshman Mechanical Engineering Student at Stony Brook
+
 
 
 <!---
